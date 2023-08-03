@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f5227993ecbe3294d950260e6d067502
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Victor Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d58c9ea141480f04c9c4547b60decec8, type: 3}
+  - {fileID: 12800000, guid: 70efc783ed8644c4daf5edfadb9c07c8, type: 3}
+  - {fileID: 12800000, guid: f3918c07f62d38244b13e4bf3bbf493b, type: 3}
+  - {fileID: 12800000, guid: 5571e91ba1636084b8a76b4a9d2d2147, type: 3}
+  - {fileID: 12800000, guid: d46ece721f93a6b45a99878e97caa365, type: 3}
+  - {fileID: 12800000, guid: a3fbdb75067d7cd41ad23f66db14312f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
